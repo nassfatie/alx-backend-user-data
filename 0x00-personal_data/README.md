@@ -1,0 +1,1 @@
+Personal data may, for example, include information on name, address, e-mail address, personal identification number, registration number, photo, fingerprints, diagnostics, biological material, when it is possible to identify a person from the data or in combination with other data.
